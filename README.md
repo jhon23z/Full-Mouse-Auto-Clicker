@@ -1,2 +1,2 @@
 # Full-Mouse-Auto-Clicker
-project going
+smooth, reliable, and customizable clicking experience
